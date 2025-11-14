@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://x.com/uAshishupadhyay" target="_blank">
-  <img src="https://api.iconify.design/mdi/twitter.svg?color=%23000000" width="28" style="margin-right:15px;" />
+  <img src="https://api.iconify.design/mdi/twitter.svg?color=%230A66C2" width="28" style="margin-right:15px;" />
 </a>
 
 <a href="https://github.com/Ashishbdj" target="_blank">
