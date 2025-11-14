@@ -51,7 +51,7 @@
   </tr>
 
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishbdj&layout=compact&langs_count=8&theme=tokyonight"
       style="border-radius:10px; box-shadow: 0 0 20px #00baff66;" />
     </td>
