@@ -45,15 +45,15 @@
       style="border-radius:10px; box-shadow: 0 0 20px #00baff66;" />
     </td>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishbdj&layout=compact&langs_count=8&theme=tokyonight"
-      Height="250"style="border-radius:10px; box-shadow: 0 0 20px #00baff66;" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishbdj&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"
+      style="border-radius:10px; box-shadow: 0 0 20px #00baff66;" />
     </td>
   </tr>
 
   <tr>
     <td colspan="2"  align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishbdj&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"
-      style="border-radius:10px; box-shadow: 0 0 20px #00baff66;" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishbdj&layout=compact&langs_count=8&theme=tokyonight"
+     style="border-radius:10px; box-shadow: 0 0 20px #00baff66;" />
     </td>
   </tr>
 </table>
