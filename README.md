@@ -10,29 +10,32 @@
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="left">
 
 <a href="https://www.instagram.com/ashish.bhardwa_j" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28px" height="28px" style="margin-right:15px;" />
+  <img src="https://api.iconify.design/mdi/instagram.svg?color=%23E4405F" width="28" style="margin-right:15px;" />
 </a>
 
 <a href="https://leetcode.com/u/ashish260/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="28px" height="28px" style="margin-right:15px;" />
+  <img src="https://api.iconify.design/simple-icons/leetcode.svg?color=%23FFA116" width="28" style="margin-right:15px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/ashish-1as1" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28px" height="28px" style="margin-right:15px;" />
+  <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" width="28" style="margin-right:15px;" />
 </a>
 
 <a href="https://x.com/uAshishupadhyay" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="28px" height="28px" style="margin-right:15px;" />
+  <img src="https://api.iconify.design/mdi/twitter.svg?color=%23000000" width="28" style="margin-right:15px;" />
 </a>
 
 <a href="https://github.com/Ashishbdj" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28px" height="28px" style="margin-right:15px;" />
+  <img src="https://api.iconify.design/mdi/github.svg?color=%23B0B0B0" width="28" style="margin-right:15px;" />
 </a>
 
 </p>
+
 
 
 ## 📊 GitHub Stats
