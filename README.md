@@ -41,4 +41,6 @@
 [![Ashish’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashishbdj&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Ashishbdj)  
 <!-- GitHub Streak Card -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashishbdj&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishbdj&layout=compact&langs_count=8&theme=tokyonight" />
+    </td>
 
