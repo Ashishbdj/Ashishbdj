@@ -43,7 +43,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Ashishbdj&show_icons=true&theme=tokyonight&count_private=true"
       style="border-radius:10px; box-shadow: 0 0 20px #00baff66;" />
-      <img src="https://streak-stats.demolab.com?user=ashishbdj&theme=earth"/>
     </td>
     <td>
        <img src="https://streak-stats.demolab.com/?user=Ashishbdj&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"
